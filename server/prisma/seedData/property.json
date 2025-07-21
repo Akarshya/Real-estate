@@ -248,5 +248,30 @@
     "numberOfReviews": 8,
     "locationId": 10,
     "managerCognitoId": "us-east-2:01234567-90ab-cdef-1234-567890abcdef"
+  },
+  {
+    "id": 11,
+    "name": "Sunny Downtown Apartment",
+    "description": "A beautiful apartment in the heart of downtown with plenty of natural light.",
+    "pricePerMonth": 1500.0,
+    "securityDeposit": 1500.0,
+    "applicationFee": 50.0,
+    "photoUrls": [
+      "https://example.com/apartment1_1.jpg",
+      "https://example.com/apartment1_2.jpg"
+    ],
+    "amenities": ["AirConditioning", "WasherDryer", "Parking"],
+    "highlights": ["HighSpeedInternetAccess", "CloseToTransit"],
+    "isPetsAllowed": true,
+    "isParkingIncluded": false,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 800,
+    "propertyType": "Apartment",
+    "postedDate": "2023-05-15T00:00:00Z",
+    "averageRating": 4.5,
+    "numberOfReviews": 10,
+    "locationId": 1,
+    "managerCognitoId": "104c891c-a051-707b-0ff2-2bb3b9184a12"
   }
 ]

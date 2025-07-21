@@ -172,5 +172,15 @@
     "favorites": {
       "connect": [{ "id": 4 }, { "id": 7 }, { "id": 9 }]
     }
+  },
+    {
+    "id": 16,
+    "cognitoId": "80ece92c-5091-70e6-7ce5-aa7e444d67d8",
+    "name": "tenant",
+    "email": "gakarshya@gmail.com",
+    "phoneNumber": "+1 (555) 555-6666",
+    "properties": {
+      "connect": [{ "id": 5 }, { "id": 6 }, { "id": 11 }]
+    }
   }
 ]

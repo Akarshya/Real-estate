@@ -133,5 +133,14 @@
     "deposit": 2500.0,
     "propertyId": 4,
     "tenantCognitoId": "us-east-2:e9876543-90ab-cdef-1234-567890abcdef"
+  },
+    {
+    "id": 16,
+    "startDate": "2023-09-01T00:00:00Z",
+    "endDate": "2024-08-31T00:00:00Z",
+    "rent": 1500.0,
+    "deposit": 1500.0,
+    "propertyId": 11,
+    "tenantCognitoId": "80ece92c-5091-70e6-7ce5-aa7e444d67d8"
   }
 ]

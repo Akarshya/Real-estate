@@ -169,5 +169,16 @@
     "email": "olivia.chen@example.com",
     "phoneNumber": "+1 (555) 159-7531",
     "message": "I'm looking for a spacious family home like this one."
+  },
+  {
+    "id": 16,
+    "applicationDate": "2023-06-01T00:00:00Z",
+    "status": "Denied",
+    "propertyId": 11,
+    "tenantCognitoId": "80ece92c-5091-70e6-7ce5-aa7e444d67d8",
+    "name": "tenant",
+    "email": "gakarshya@gmail.com",
+    "phoneNumber": "+1 (555) 555-6666",
+    "message": "Excited about the possibility of renting this house."
   }
 ]

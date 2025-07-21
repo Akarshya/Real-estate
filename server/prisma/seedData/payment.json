@@ -148,5 +148,15 @@
     "lease": {
       "connect": { "id": 15 }
     }
+  },
+  {
+    "amountDue": 1500.0,
+    "amountPaid": 1500.0,
+    "dueDate": "2023-09-01T00:00:00Z",
+    "paymentDate": "2023-08-30T00:00:00Z",
+    "paymentStatus": "Paid",
+    "lease": {
+      "connect": { "id": 16 }
+    }
   }
 ]
